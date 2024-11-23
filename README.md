@@ -51,10 +51,10 @@ To develop a predictive model that classifies generators as likely to fail (**1*
 
 The **XGBoost model** outperformed other models, achieving the following metrics on the test set:
 
-- **Accuracy:** 0.9890
-- **Recall:** 0.8369
-- **Precision:** 0.9633
-- **F1 Score:** 0.8956
+- **Accuracy:** 0.9596
+- **Recall:** 0.8652
+- **Precision:** 0.5980
+- **F1 Score:** 0.7072
 
 ### **Feature Importance and Operational Insights**
 
